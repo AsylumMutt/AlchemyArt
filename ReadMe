@@ -1,6 +1,1 @@
-echo "# AlchemyArt" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/AsylumMutt/AlchemyArt.git
-git push -u origin master
+Feel free to just drop art as I try to get things figured out with this
